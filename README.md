@@ -1,1 +1,1 @@
-Here's some script I created in Python.
+Here's some scripts I created in Python.
